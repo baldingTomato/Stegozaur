@@ -7,6 +7,7 @@ Aplikacja konsolowa do eksperymentów z algorytmami steganograficznymi ukrywają
   - **LSB** (Least Significant Bit)
   - **LSBM** (Least Significant Bit Matching)
   - **PVD** (Pixel-Value Differencing)
+  - **Hybryda IWT z SFLA**
 - Obsługa obrazów w formacie **PNG** oraz plików audio **WAV** (PCM)
 - Tryb wsadowy – ukrywanie tego samego audio we wszystkich obrazach z katalogu
 - Własny protokół nagłówka (128 bitów metadanych) umożliwiający autonomiczną ekstrakcję
